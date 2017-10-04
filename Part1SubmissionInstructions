@@ -1,0 +1,25 @@
+Write a document to discuss your project idea:
+Name it as <TeamNo>_<TeamName>_ProjectIdea.pdf
+Create a project page for your team, name it "<Project Name>: <Project Title>". Use the template here. Link the page to your row in the registration table. See sample team (team 0) for an example. 
+Attach the document to row "Documents" in your project page.
+Format: You can choose any format (regular document, slides, etc.) but the expected amount of content is about two pages (one column, font size 12, single spaced, excluding references, pictures, and code). Generally, you will not be penalized for writing too much.
+Content: Generally, you need to sell your idea to us. So try to make the document interesting, specific and creative! You can consider using pictures, diagrams, etc. to present your ideas. Below is the list of questions you must answer. You can answer them one by one, or write the document in a more creative way but make sure that we will be able to find the answers in the submitted document.
+What is the name of the product you are going to build?
+Is it a web app or a mobile app?
+Which of the three datasets does it use?
+Do you use any other datasets or APIs (like Google API, Bing API) together with chosen dataset?
+Who are the potential users? (researchers, students, movie lovers, etc.)
+What are the basic functions of the system?
+What are the two advanced functions of the system?
+How are the functions beneficial to each type of potential users?
+Can you tell three different stories showing how users may use the system? (You can follow the format: Alice is a someone. Her boss asks her to do something. Without the system, she may need to do something, which is unpleasant. With the system, she can do this more easily because of this and that. 
+Can you list three similar tools/apps/websites and explain how your system are different from them? (similar domain, different functionalities; or similar functionality, different domains)
+Can you list three challenges of the project?
+Can you tell us your ideas showing how the challenges can be solved?
+Notes about basic functions and advanced functions:
+Basic Functions: see Stage 6 for what of basic functions you need to offer.
+Advanced Functions:
+Remember to include at least two creative things (advanced functions), i.e., something that don't exist in equivalent web sites/applications. The advanced functions should go beyond the basic functions listed above; in addition, an advanced function should also be something that is technically challenging, meaning you would need to spend some significant time (at least a few days work) to implement it. Of course, such functions should be relevant and therefore useful for your application.
+Make clear what the features are, and explain why you think it is cool to have them.  If you are unclear, please post your questions on Piazza or email us.
+
+Find link to site here: https://wiki.illinois.edu/wiki/pages/viewpage.action?pageId=601832963
